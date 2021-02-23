@@ -1,5 +1,3 @@
-# MVC-using-Core-PHP
-Created MVC structure using Core PHP and OOP concepts
 
 ## About This Project
 
