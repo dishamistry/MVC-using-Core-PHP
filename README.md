@@ -11,5 +11,8 @@ Created custom MVC structure using Core PHP.
 - [Namespace]
 
 
-- [1] composer install
-- [2] php -S localhost:8000
+## To run the Project
+
+
+- [1] $ composer install
+- [2] $ php -S localhost:8000
