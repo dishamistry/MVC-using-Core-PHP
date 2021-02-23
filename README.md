@@ -9,3 +9,7 @@ Created custom MVC structure using Core PHP.
 - [Created custom Router]
 - [Composer]
 - [Namespace]
+
+
+- [1] composer install
+- [2] php -S localhost:8000
